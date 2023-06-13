@@ -11,7 +11,7 @@ package Ghaza230523;
 public class ExtendStudentRecord extends StudentRecord {
 
     public ExtendStudentRecord(){
-        System.out.println("Student: getName");
+        System.out.println("");
     }    
     
     public static void main(String[] args){

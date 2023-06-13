@@ -35,12 +35,12 @@ public class BukuAlamatData {
         data1.setNama("Ali");
         data1.setAlamat("Padang");
         data1.setNoTelp("089601617563");
-        data1.setEmail("muhammadghazaf@gmail.com");
+        data1.setEmail("muhammadali@gmail.com");
         data.insert(data1);
         
         BukuAlamat data2 = new BukuAlamat();
-        data2.setNama("ll");
-        data2.setAlamat("Pp");
+        data2.setNama("Muhammad Ghaza Fadillah");
+        data2.setAlamat("Padang");
         data2.setNoTelp("089601617562");
         data2.setEmail("muhammadghaza@gmail.com");
         data.insert(data2);
