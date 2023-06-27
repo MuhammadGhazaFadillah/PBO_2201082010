@@ -58,7 +58,15 @@ public class AnggotaController {
     }
 
     public void updateAnggota(){
-    
+    int index = formAnggota.getTableAnggota().getSelectedRow();
+        anggota = anggotaDao.getAnggota(index);
+        anggota.setKodeAnggota(formAnggota.getTxtKodeAnggota().getText());
+        anggota.setNamaAnggota(formAnggota.getTxtNamaAnggota().getText());
+        anggota.setAlamat(formAnggota.getTxtAlamat().getText());
+        anggota.setJenisKelamin(formAnggota.getCboJenisKelamin()
+                .getSelectedItem().toString());
+        anggotaDao.update(index, anggota);
+        JOptionPane.showMessageDialog(formAnggota, "Update OK");
     }
     
     public void getAnggota(){

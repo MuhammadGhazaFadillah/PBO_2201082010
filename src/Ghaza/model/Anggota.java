@@ -41,7 +41,7 @@ public class Anggota {
     public String getAlamat(){
         return alamat;
     }
-    public void setAlamat(String Alamat){
+    public void setAlamat(String alamat){
         this.alamat = alamat;
     }
     

@@ -4,11 +4,16 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/D:/Semester_2/Pemrograman%20Berbasis%20Objek%20Praktek/PBO_2201082010/src/Ghaza/controller/AnggotaController.java</file>
-            <file>file:/D:/Semester_2/Pemrograman%20Berbasis%20Objek%20Praktek/PBO_2201082010/src/Ghaza160523/StudentRecordExample.java</file>
+            <file>file:/D:/Semester_2/Pemrograman%20Berbasis%20Objek%20Praktek/PBO_2201082010/src/Ghaza200623/Relation.java</file>
+            <file>file:/D:/Semester_2/Pemrograman%20Berbasis%20Objek%20Praktek/PBO_2201082010/src/Ghaza/model/Anggota.java</file>
             <file>file:/D:/Semester_2/Pemrograman%20Berbasis%20Objek%20Praktek/PBO_2201082010/src/Ghaza/model/AnggotaDao.java</file>
-            <file>file:/D:/Semester_2/Pemrograman%20Berbasis%20Objek%20Praktek/PBO_2201082010/src/Ghaza160523/BukuAlamatData.java</file>
+            <file>file:/D:/Semester_2/Pemrograman%20Berbasis%20Objek%20Praktek/PBO_2201082010/src/Ghaza/model/BukuDao.java</file>
+            <file>file:/D:/Semester_2/Pemrograman%20Berbasis%20Objek%20Praktek/PBO_2201082010/src/Ghaza/view/FormBuku.java</file>
+            <file>file:/D:/Semester_2/Pemrograman%20Berbasis%20Objek%20Praktek/PBO_2201082010/src/Ghaza/model/Buku.java</file>
+            <file>file:/D:/Semester_2/Pemrograman%20Berbasis%20Objek%20Praktek/PBO_2201082010/src/Ghaza/controller/BukuController.java</file>
             <file>file:/D:/Semester_2/Pemrograman%20Berbasis%20Objek%20Praktek/PBO_2201082010/src/Ghaza/view/Form.java</file>
-            <file>file:/D:/Semester_2/Pemrograman%20Berbasis%20Objek%20Praktek/PBO_2201082010/src/Ghaza160523/StudentRecord.java</file>
+            <file>file:/D:/Semester_2/Pemrograman%20Berbasis%20Objek%20Praktek/PBO_2201082010/src/Ghaza200623/ContohInterface.java</file>
+            <file>file:/D:/Semester_2/Pemrograman%20Berbasis%20Objek%20Praktek/PBO_2201082010/src/Ghaza200623/Line.java</file>
         </group>
     </open-files>
 </project-private>
