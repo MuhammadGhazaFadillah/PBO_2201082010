@@ -10,10 +10,8 @@ package Ghaza130623;
  */
 public abstract class Shape {
 
-    /**
-     *
-     * @return
-     */
+    public abstract double getArea();
+    public abstract String getName();
     
     
 }

@@ -8,9 +8,9 @@ package Ghaza130623;
  *
  * @author muham
  */
-public class Square {
+public class Square extends Shape {
     private int s;
-    private int area;
+    private double area;
     
     public void setS(int s){
         this.s = s;
@@ -24,7 +24,7 @@ public class Square {
         return "Lingkaran";
     }
     
-    public int getArea(){
+    public double getArea(){
         area = s * s;
         return area;
     }

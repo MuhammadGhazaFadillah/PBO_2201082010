@@ -24,8 +24,8 @@ public class Latihan71 {
             
             try {
                 System.out.println("[1] for");
-                System.out.println("[1] do while");
-                System.out.println("[1] while loop");
+                System.out.println("[2] do while");
+                System.out.println("[3] while loop");
                 System.out.print("masukan pilihan : ");
                int pilihan = Integer.parseInt(reader.readLine());
                  
@@ -42,12 +42,12 @@ public class Latihan71 {
                                i++;
                            }
                           break;
-                    default:
+                    case 3 :
                          do{
                               System.out.println("Hari "+days[i]);
                               i++;
                          }while(i<days.length);
-                        
+                    default : System.out.println("Angka tidak ada");    
                 }
                 
             } 
